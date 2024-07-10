@@ -13,7 +13,6 @@
    1. [Installation](#item-six-a)
    2. [Getting Started](#item-six-b)
    3. [Role-base Functionalities](#item-six-c)
-9. [Task Division](#item-seven)
 
 <a id="item-one"></a>
 ## 1. Introduction
@@ -646,16 +645,3 @@ This application is built base on the Model-View-Control pattern:
 - To generate invoice of a transaction : choose a transaction on the list -> "View Transaction" -> "generate invoice". The invoice will be saved in the current working directory.
 
 <img src="https://github.com/galvdat-hthieu/vgupe2024_team8/assets/68812852/22936152-1dc7-438d-a90e-c1f5d7d4cf05" width="400" height="400">
-
-
-
-<a id="item-seven"></a>
-## 7. Task Division
-ID        |Name                  |Tasks                                                                    |Comments                                                   |
-|:-------:|:--------------------:|-------------------------------------------------------------------------|-----------------------------------------------------------|
-|10421034 |Phạm Phi Long         |<ul><li>Project manager</li><li>Full-stack developer</li></ul>           | <ul><li>Responsible</li><li>Enthusiastic</li></ul>        |
-|10421087 |Thái Minh Kiên        |<ul><li>Back-end developer</li><li>Docker deployment </li></ul>          | <ul><li>Active</li><li>Understanding</li></ul>            |
-|10421074 |Đào Thế Hiển          |<ul><li>Back-end developer</li><li>Tester</li><li>Report writer</li></ul>| <ul><li>High-level tool utilizing</li><li>Neat</li></ul>  |
-|10421092 |Trương Quang Minh     |<ul><li>Back-end developer</li><li>Tester</li><li>Report writer</li></ul>| <ul><li>Entertaining</li><li>Hard-working</li></ul>       |
-|10421121 |Nguyễn Đức Nhật Minh  |<ul><li>Full-stack developer</li><li>Designer</li></ul>                  | <ul><li>Decisive</li><li>Quick-witted</li></ul>           |
-|10421031 |Đặng Hoàng Anh Khôi   |<ul><li>Back-end developer</li><li>Docker deployment </li></ul>          | <ul><li>Unique thinking</li><li>Persuasive</li></ul>      |
